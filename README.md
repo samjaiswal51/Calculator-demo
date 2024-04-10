@@ -6,10 +6,10 @@
         <li><h4>Language used-JAVA</h4></li>
         <li><h4>Basic functionality of Calculater:
             <ol>
-                <li>Addition of two number</li>
-                <li>Subtraction of two number</li>
-                <li>Multiplication of two number</li>
-                <li>Division of two number</li>
+                <li>Addition of two number.</li>
+                <li>Subtraction of two number.</li>
+                <li>Multiplication of two number.</li>
+                <li>Division of two number.</li>
             </ol>
         </h4></li>
         <li><h4>How to use it:
